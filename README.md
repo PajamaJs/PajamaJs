@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PajamaJs
+- 👀 I’m interested in Python coding/coding in general
+- 🌱 I’m currently learning Python basics (very basics)
